@@ -9,3 +9,8 @@ console.log(bar + false);
 // Number + String -> Concatenation
 // String + Boolean -> Concatenation
 // String + String -> Concatenation
+
+//***IMPORTANT
+
+//it shows object as output
+console.log(typeof null);
